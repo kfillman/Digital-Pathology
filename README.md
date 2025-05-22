@@ -1,0 +1,2 @@
+Using Python Tensorflow and Google Colab to create machine learning model able to differentiate melanoma (cancerous) and benign (non-cancerous) nevus (moles).
+This was originally written in Google Colab as I wanted to learn more about the platform and how it might be used. This was a great learning experience and showed Google's expansion into new domains. This would definately be a great tool for groups and collaborative efforts that utilize reguarly edited data.
